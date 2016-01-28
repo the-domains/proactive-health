@@ -1,0 +1,28 @@
+name: 'Proactive Health '
+favicon: null
+layout_spectrum: 0.46895348047837615
+typography_spectrum: 0.2850770524237305
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.11796983238309622
+  lightness: 0.6666970052756369
+  saturation: 0.4046561629511416
+  rhythmicContrast: 0.3156334753148258
+purpose: []
