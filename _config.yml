@@ -1,7 +1,7 @@
 name: 'Proactive Health '
 favicon: null
 layout_spectrum: 0.36588
-typography_spectrum: 0.2850770524237305
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#EDB88B'
     - '#FAD8D6'
   brandStrength: 0.1875
-  lightness: 0.5
+  lightness: 0.75
   saturation: 0.5
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.75
 purpose: []
