@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Proactive Health ]]></title>
+        <description><![CDATA[Proactive Health ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 29 Jan 2016 10:28:51 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Stress Management]]></title>
+            <description><![CDATA[<h1>Stress Management</h1>]]></description>
+            <link>undefinedstress-management/index.html</link>
+            <guid isPermaLink="false">4114d923-50b5-4bf1-8b79-e014ea256f7b</guid>
+            <pubDate>Fri, 29 Jan 2016 10:28:51 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
