@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Proactive Health ]]></title>
         <description><![CDATA[Proactive Health ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/proactive-health/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jan 2016 10:28:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 29 Jan 2016 10:30:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/proactive-health/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Aesthetic Goals]]></title>
+            <description><![CDATA[<h1>Aesthetic Goals</h1>]]></description>
+            <link>https://thegrid.ai/proactive-health/aesthetic-goals/index.html</link>
+            <guid isPermaLink="false">11283ac9-d974-4090-b70e-8185d007c0ce</guid>
+            <pubDate>Fri, 29 Jan 2016 10:30:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Stress Management]]></title>
             <description><![CDATA[<h1>Stress Management</h1>]]></description>
-            <link>undefinedstress-management/index.html</link>
+            <link>https://thegrid.ai/proactive-health/stress-management/index.html</link>
             <guid isPermaLink="false">4114d923-50b5-4bf1-8b79-e014ea256f7b</guid>
             <pubDate>Fri, 29 Jan 2016 10:28:51 GMT</pubDate>
         </item>
